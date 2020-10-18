@@ -1,9 +1,9 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+<h1 align="center">
+  <a href="https://explore-nik.netlify.app/">
+    SEE LIVE
   </a>
-</p>
+</>
 <h1 align="center">
   Gatsby's default starter
 </h1>
